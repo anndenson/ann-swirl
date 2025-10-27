@@ -1,0 +1,52 @@
+body {
+    background-image: url("https://i.pinimg.com/736x/e0/28/7b/e0287b2e47bc1b3ef0fa009abb8ac2b3.jpg");
+}
+h1 {
+    font-family: Lucida Handwriting, cursive;
+    font-size: 35px;
+    color: RoyalBlue;
+    text-align: center;
+    background-color: white;
+    text-decoration: underline dotted pink 10px;
+}
+.introduction {
+    border: 10px outset gold;
+    background-color: white;
+    text-align: center;
+    font-family: Bradley Hand ITC;
+    font-size: 30px;
+}
+.option{
+    border: 5px outset lightpink;
+    background-color: White;    
+    text-align: center;
+    font-family: Bradley Hand ITC;
+    font-size: 20px;
+    font-weight: bold;
+}
+.firsttext {
+    border: 10px outset red;
+    background-color: white;
+    text-align: center;
+    font-family: Century Gothic;
+    font-size: 20px;
+ }
+.twotext {
+    border: 10px outset purple;
+    background-color: white;
+    text-align: center;
+    font-family: Century Gothic;
+    font-size: 20px;
+    }
+.threetext {
+    border: 10px outset blue;
+    background-color: white;
+    text-align: center;
+    font-family: Century Gothic;
+    font-size: 20px;
+    }
+img {
+        display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
