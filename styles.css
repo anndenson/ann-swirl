@@ -9,12 +9,45 @@ h1 {
     background-color: white;
     text-decoration: underline dotted pink 10px;
 }
+  img:hover {
+    transform: scale(1.15);
+    transition: transform 0.5s ease;
+}
+
+table {
+  font-family: Bradley Hand ITC;
+  border-collapse: collapse;
+  width: 100%;
+  font-weight: bold;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 1px;
+}
+
+th{
+	font-size: 20px
+}
+.white{
+        background-color:white;
+}
+.gray{
+    background-color: #dddddd;
+}
 .introduction {
     border: 10px outset gold;
     background-color: white;
     text-align: center;
     font-family: Bradley Hand ITC;
     font-size: 30px;
+}
+p{
+    font-family:Bradley Hand ITC;
+    font-size: 30px;
+    background-color: white;
+    font-weight: bold;
 }
 .option{
     border: 5px outset lightpink;
