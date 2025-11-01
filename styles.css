@@ -13,6 +13,18 @@ h1 {
     transform: scale(1.15);
     transition: transform 0.5s ease;
 }
+
+.ping{
+    background-color: red;
+    font-family: Century Gothic;
+    font-size: 30px
+    }
+.pong{
+    background-color: cyan;
+    font-family: Century Gothic;
+    font-size: 30px
+    }
+
 ul{
     font-family: Century Gothic;
     font-size: 30px
