@@ -13,7 +13,22 @@ h1 {
     transform: scale(1.15);
     transition: transform 0.5s ease;
 }
-
+ul{
+    font-family: Century Gothic;
+    font-size: 30px
+}
+.fruit{
+    background-color: lightpink;
+}
+.choco{
+    background-color: chocolate;
+}
+.beans{
+    background-color: brown;
+}
+.candy{
+    background-color: greenyellow;
+}
 table {
   font-family: Bradley Hand ITC;
   border-collapse: collapse;
